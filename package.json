@@ -1,0 +1,13 @@
+{
+  "name": "stocks-bot",
+  "version": "0.0.1",
+  "description": "This projects use Node.js with Puppeteer to grab info about stocks at Google and Yahoo Finance",
+  "main": "index.js",
+  "repository": "https://github.com/pgomesdev/stocks-bot",
+  "author": "Pedro Gomes <gomes.pedro15@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^1.11.0"
+  }
+}
